@@ -4,12 +4,14 @@ body {
 }
 
 
+
 div {
 	margin-top: -60px;	x 
 }
 
 
 /* ADD SELECTOR HERE */
+#home
 {
 	box-shadow: 0px 0px 10px #333;
 	margin-top: 24px;
